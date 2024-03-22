@@ -1,0 +1,16 @@
+
+#main_div{
+    height: 100vh;
+    width: 100%;
+    background-color: azure;
+position: relative;
+}
+
+#child_div{
+    height: 75px;
+    width: 75px;
+	position: absolute;
+    background-color: azure;
+   
+	transition: all 0.5s ease;
+}
